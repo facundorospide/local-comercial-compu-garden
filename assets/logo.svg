@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <text x="10" y="40" font-family="Arial" font-size="30" fill="#333">Computer Components Store</text>
+  <rect x="0" y="60" width="200" height="40" fill="#007BFF"/>
+  <text x="10" y="85" font-family="Arial" font-size="20" fill="#fff">Your one-stop shop for all PC parts!</text>
+</svg>
